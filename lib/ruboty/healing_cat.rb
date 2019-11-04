@@ -1,4 +1,5 @@
 require "ruboty/healing_cat/version"
+require "ruboty/handlers/healing_cat"
 
 module Ruboty
   module HealingCat

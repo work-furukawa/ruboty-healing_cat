@@ -1,5 +1,8 @@
 require "bundler/setup"
+require "ruboty"
 require "ruboty/healing_cat"
+require "ruboty/handlers/healing_cat"
+require "ruboty/healing_cat/actions/healing_cat"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
